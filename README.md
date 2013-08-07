@@ -7,4 +7,4 @@ Implements: tweeting, retweeting, followers, following, tweet stream, groups, un
 top user section. I also loosly implemented a structure where weekly top users "partner" with Celebrity users 
 to promote "causes". These partnerships can be browsed through the site. 
 
-Would like to tinker with Bootstrap at some point with this...
+Would like to tinker with Bootstrap at some point with this.
